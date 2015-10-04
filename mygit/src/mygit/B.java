@@ -2,6 +2,8 @@ package mygit;
 
 class B{
 public static void main(String[] args) {
-	System.out.println("B");
+	//string variable 
+	String sname;//this is for student name
+	System.out.println("B"+sname);
 }
 }
