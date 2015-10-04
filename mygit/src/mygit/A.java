@@ -10,3 +10,8 @@ public static void main(String[] args) {
 	System.out.println("A"+c);
 }
 }
+class C{
+	public void show(){
+		System.out.println("C-show()");
+	}
+}
