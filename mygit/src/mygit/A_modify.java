@@ -16,4 +16,10 @@ class C{
 	public void show(){
 		System.out.println("C-show()");
 	}
+
+}
+abstract class myImple{
+
+	public void addName();
+	abstract void addDetails();
 }
